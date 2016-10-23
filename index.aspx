@@ -26,7 +26,7 @@
    
         <header id="header">
             <div class="header-content clearfix">
-                <a class="logo" href="#"><img src="images/logo.png" alt=""></a>
+                <a class="logo" href="#"><img src="images/logo@2x.png" alt=""></a>
                 <nav class="navigation" role="navigation">
                     <ul class="primary-nav">
                         <li><a href="#features">Services</a></li>
