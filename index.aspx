@@ -43,9 +43,9 @@
         <div class="container">
             <div class="col-md-10 col-md-offset-1">
                 <div class="banner-text text-center">
-                    <h1>Make your landing page really good. Get thinks faster & easy.</h1>
+                    <h1>Wellcome to ERNI .NET COMMUNITY. Let's learn and have fun with .Net technologies TOGETHER!!</h1>
                     <h3>An elegant <strong>AKSHARAPRO</strong> one-page template in a flat-style with its focus on content. Try <strong>AKSHARAPRO</strong> for better result.</h3>
-                    <a href="#" class="btn btn-large">Find out more</a> <a href="#" class="btn btn-large">APP STORE</a>
+                    <a href="#" class="btn btn-large">JOIN US</a> <a href="#" class="btn btn-large">I'm a SME</a>
                 </div><!-- banner text -->
             </div>
         </div>

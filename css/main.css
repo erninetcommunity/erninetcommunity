@@ -151,6 +151,10 @@ ul li {
     transition: padding 0.3s; }
   #header .logo {
     float: left; }
+  #header a.logo img{
+    height: 100px;
+    width: 100px;
+  }
 
 #header.fixed
 {
