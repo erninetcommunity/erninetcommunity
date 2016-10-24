@@ -263,7 +263,7 @@
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="person">
-                        <img src="images/unknownSME.jpg" alt="" class="img-responsive">
+                        <img src="images/unknownSME.png" alt="" class="img-responsive">
                         <div class="person-content">
                             <h4><strong>Unknown SME</strong></h4>
                             <h5 class="role"><strong>Are you our next SME?</strong></h5>
