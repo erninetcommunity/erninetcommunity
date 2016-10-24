@@ -112,22 +112,23 @@
            </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
                     <a href="images/work-1.jpg" class="work-box">
-                        <img src="images/work-1.jpg" alt="">
+                        <!--<img src="images/work-1.jpg" alt="">-->
+                        <img src="images/hololens.jpg" alt="">
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>Project Name</h5>
-                                <p>Website Design</p>
+                                <h5>Hololens</h5>
+                                <!--<p>Website Design</p>-->
                             </div>
                         </div><!-- overlay -->
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
                     <a href="images/work-2.jpg" class="work-box">
-                        <img src="images/work-2.jpg" alt="">
+                        <img src="images/work-2.jpg" alt="">                        
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>Project Name</h5>
-                                <p>Website Design</p>
+                                <h5>What you want to do?</h5>
+                                <!--<p>Website Design</p>-->
                             </div>
                         </div><!-- overlay -->
                     </a>
@@ -137,8 +138,8 @@
                         <img src="images/work-3.jpg" alt="">
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>Project Name</h5>
-                                <p>Website Design</p>
+                                <h5>Coming soon!</h5>
+                                <!--<p>Website Design</p>-->
                             </div>
                         </div><!-- overlay -->
                     </a>
@@ -148,8 +149,8 @@
                         <img src="images/work-4.jpg" alt="">
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>Project Name</h5>
-                                <p>Website Design</p>
+                                <h5>Coming soon!</h5>
+                                <!--<p>Website Design</p>-->
                             </div>
                         </div><!-- overlay -->
                     </a>
