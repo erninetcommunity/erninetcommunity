@@ -145,11 +145,11 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
-                    <a href="images/work-4.jpg" class="work-box">
-                        <img src="images/work-4.jpg" alt="">
+                    <a href="images/softwareDevelopment.jpg" class="work-box">
+                        <img src="images/softwareDevelopment.jpg" alt="">
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>Coming soon!</h5>
+                                <h5>When we Start?</h5>
                                 <!--<p>Website Design</p>-->
                             </div>
                         </div><!-- overlay -->
