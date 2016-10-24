@@ -233,7 +233,7 @@
                         <div class="person-content">
                             <h4><strong>Ricard Artigas</strong></h4>
                             <h5 class="role"><strong>.Net Community Leader</strong></h5>
-                            <p>Let's have fun coding, we have an amazing oportunty to learn together.</p>
+                            <p>Join us we have an amazing oportunty to learn together.</p>
                         </div>
                         <!--<ul class="social-icons clearfix">
                             <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
@@ -249,7 +249,7 @@
                         <img src="images/leon.jpg" alt="" class="img-responsive">
                         <div class="person-content">
                             <h4><strong>Leon Miura</strong></h4>
-                            <h5 class="role"><strong>SME Hololens</strong></h5>
+                            <h5 class="role"><strong>Hololens SME</strong></h5>
                             <p>Our first SME come with us un listen what he has to say obut <strong>Hololens</strong>.</p>
                         </div>
                         <!--<ul class="social-icons clearfix">
@@ -358,12 +358,29 @@
             <div class="row">
                 
             </div>
+
+                <div class="col-md-4 col-sm-6 feature text-center">
+                    <span class="icon icon-desktop"></span>
+                    <div class="feature-content">
+                        <h5>Responsive Ready</h5>
+                        <p>Service provision is often an economic activity where the buyer does not generally, except by exclusive contract, obtain exclusive ownership of the thing purchased.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 feature text-center">
+                    <span class="icon icon-briefcase"></span>
+                    <div class="feature-content">
+                        <h5>Ready to Ship</h5>
+                        <p>Service provision is often an economic activity where the buyer does not generally, except by exclusive contract, obtain exclusive ownership of the thing purchased.</p>
+                    </div>
+                </div>
+
+
             <!-- ./end row -->
             <div class="row">
                 <div class="col-md-12">
                     <div id="main-contact-form" class="contact-form">
                         <!-- form -->
-                        <form role="form" action="contact.php" method="post">
+                        <!--<form role="form" action="contact.php" method="post">
                         <div class="form-group">
                             <label class="sr-only" for="contact-name">
                                 Name</label>
@@ -390,7 +407,7 @@
                         </div>
                         <button type="submit" class="btn btn-large">
                             <i class="fa fa-envelope"></i>Send message</button>
-                        </form>
+                        </form>-->
                         <!-- ./form -->
                     </div>
                 </div>
