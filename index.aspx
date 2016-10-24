@@ -154,7 +154,8 @@
                         </div><!-- overlay -->
                     </a>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 work">
+
+                <!--<div class="col-lg-3 col-md-6 col-sm-6 work">
                     <a href="images/work-5.jpg" class="work-box">
                         <img src="images/work-5.jpg" alt="">
                         <div class="overlay">
@@ -162,7 +163,7 @@
                                 <h5>Project Name</h5>
                                 <p>Website Design</p>
                             </div>
-                        </div><!-- overlay -->
+                        </div>
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
@@ -173,7 +174,7 @@
                                 <h5>Project Name</h5>
                                 <p>Website Design</p>
                             </div>
-                        </div><!-- overlay -->
+                        </div>
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
@@ -184,7 +185,7 @@
                                 <h5>Project Name</h5>
                                 <p>Website Design</p>
                             </div>
-                        </div><!-- overlay -->
+                        </div>
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
@@ -195,9 +196,9 @@
                                 <h5>Project Name</h5>
                                 <p>Website Design</p>
                             </div>
-                        </div><!-- overlay -->
+                        </div>
                     </a>
-                </div>
+                </div>-->
             </div>
         </div>
     </section>
