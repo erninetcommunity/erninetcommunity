@@ -55,7 +55,7 @@
         <div class="container">
             <div class="row">
            <div class="headingsyle">
-             <h1><span>SERVICES</span></h1>
+             <h1><span>COMMUNITY</span></h1>
            </div>
                 <div class="col-md-4 col-sm-6 feature text-center">
                
