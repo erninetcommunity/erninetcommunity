@@ -11,7 +11,7 @@
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>AksharaPro</title>
+    <title>ERNI ESP .Net Community</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/flexslider.css">
     <link rel="stylesheet" href="css/jquery.fancybox.css">
@@ -32,8 +32,8 @@
                         <li><a href="#features">Community</a></li>
                         <li><a href="#works">Projects</a></li>
                         <li><a href="#teams">Members</a></li>
-                        <!--<li><a href="#testimonials">Testimonials</a></li>
-                        <li><a href="#download">Download</a></li>-->
+                        <li><a href="#testimonials">Events</a></li>
+                        <!--<li><a href="#download">Download</a></li>-->
                     </ul>
                 </nav>
                 <a href="#" class="nav-toggle">Menu<span></span></a>
@@ -315,12 +315,13 @@
                             </div>
                         </li>
                     </ul>
-                </div><!-- flexslider -->
+                </div>
+                
             </div>
         </div>
     </section>
     <!-- testimonials -->
-    <section id="download" class="section download">
+    <!--<section id="download" class="section download">
         <div class="container">
             <div class="col-md-8 col-md-offset-2 text-center">
                 <h3>Are You Ready to Start? Download Now For Free!</h3>
@@ -328,9 +329,9 @@
                 <a href="https://aspxtemplates.com/" class="btn btn-large">Download for Free</a>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- download -->
-    <div id="faq-info" class="space100">
+    <!--<div id="faq-info" class="space100">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 wow fadeInUp">
@@ -349,7 +350,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
     <!-- Contact Form -->
     <section id="contact" class="space100">
         <div class="container">
