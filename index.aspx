@@ -29,11 +29,11 @@
                 <a class="logo" href="#"><img src="images/logo.png" alt=""></a>
                 <nav class="navigation" role="navigation">
                     <ul class="primary-nav">
-                        <li><a href="#features">Services</a></li>
-                        <li><a href="#works">Works</a></li>
-                        <li><a href="#teams">Our Team</a></li>
-                        <li><a href="#testimonials">Testimonials</a></li>
-                        <li><a href="#download">Download</a></li>
+                        <li><a href="#features">Community</a></li>
+                        <li><a href="#works">Projects</a></li>
+                        <li><a href="#teams">Members</a></li>
+                        <!--<li><a href="#testimonials">Testimonials</a></li>
+                        <li><a href="#download">Download</a></li>-->
                     </ul>
                 </nav>
                 <a href="#" class="nav-toggle">Menu<span></span></a>
@@ -43,9 +43,9 @@
         <div class="container">
             <div class="col-md-10 col-md-offset-1">
                 <div class="banner-text text-center">
-                    <h1>Wellcome to ERNI .NET COMMUNITY. Let's learn and have fun with .Net technologies TOGETHER!!</h1>
-                    <h3>You are an .Net expert? What you want to share with us!! Do you have a crazy idea? Come to our Kick-off meeting <strong>14/11/2016</strong> </h3>
-                    <a href="#" class="btn btn-large">JOIN US</a> <a href="#" class="btn btn-large">I'm a SME</a>
+                    <h1>Welcome to ERNI .NET COMMUNITY. Let's learn and have fun with .Net technologies TOGETHER!!</h1>
+                    <h3>Are you an .Net expert? Do you want to share with us? Do you have a crazy idea? Come to our Kick-off meeting <strong>14/11/2016</strong> </h3>
+                    <a href="#" class="btn btn-large">JOIN US</a> <!--<a href="#" class="btn btn-large">I'm a SME</a>-->
                 </div><!-- banner text -->
             </div>
         </div>
