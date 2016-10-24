@@ -229,11 +229,11 @@
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="person">
-                        <img src="images/team-2.jpg" alt="" class="img-responsive">
+                        <img src="images/ricard.jpg" alt="" class="img-responsive">
                         <div class="person-content">
-                            <h4><strong>Timothy Reed</strong></h4>
-                            <h5 class="role"><strong>Co-Founder, Developer</strong></h5>
-                            <p>The benefits of such a service, if priced, are held to be self-evident in the buyer's willingness to pay for it. Public services are those, that society (nation state, fiscal union, regional) as a whole pays for, through taxes and other means.</p>
+                            <h4><strong>Ricard Artigas</strong></h4>
+                            <h5 class="role"><strong>.Net Community Leader</strong></h5>
+                            <p>Let's have fun coding, we have an amazing oportunty to learn together.</p>
                         </div>
                         <!--<ul class="social-icons clearfix">
                             <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
@@ -263,19 +263,19 @@
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="person">
-                        <img src="images/team-4.jpg" alt="" class="img-responsive">
+                        <img src="images/unknownSME.jpg" alt="" class="img-responsive">
                         <div class="person-content">
-                            <h4><strong>Beverly Little</strong></h4>
-                            <h5 class="role"><strong>Data Scientist</strong></h5>
-                            <p>The benefits of such a service, if priced, are held to be self-evident in the buyer's willingness to pay for it. Public services are those, that society (nation state, fiscal union, regional) as a whole pays for, through taxes and other means.</p>
+                            <h4><strong>Unknown SME</strong></h4>
+                            <h5 class="role"><strong>Are you our next SME?</strong></h5>
+                            <!--<p>What you have to share with us!</p>-->
                         </div>
-                        <ul class="social-icons clearfix">
+                        <!--<ul class="social-icons clearfix">
                             <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
                             <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
                             <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
                             <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
                             <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
-                        </ul>
+                        </ul>-->
                     </div><!-- person -->
                 </div>
             </div>
