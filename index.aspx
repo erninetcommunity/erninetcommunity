@@ -26,7 +26,7 @@
    
         <header id="header">
             <div class="header-content clearfix">
-                <a class="logo" href="#"><img src="images/logo@2x.png" alt=""></a>
+                <a class="logo" href="#"><img src="images/logo.png" alt=""></a>
                 <nav class="navigation" role="navigation">
                     <ul class="primary-nav">
                         <li><a href="#features">Services</a></li>
@@ -44,7 +44,7 @@
             <div class="col-md-10 col-md-offset-1">
                 <div class="banner-text text-center">
                     <h1>Wellcome to ERNI .NET COMMUNITY. Let's learn and have fun with .Net technologies TOGETHER!!</h1>
-                    <h3>An elegant <strong>AKSHARAPRO</strong> one-page template in a flat-style with its focus on content. Try <strong>AKSHARAPRO</strong> for better result.</h3>
+                    <h3>You are an .Net expert? What you want to share with us!! Do you have a crazy idea? Come to our Kick-off meeting <strong>14/11/2016</strong> </h3>
                     <a href="#" class="btn btn-large">JOIN US</a> <a href="#" class="btn btn-large">I'm a SME</a>
                 </div><!-- banner text -->
             </div>
