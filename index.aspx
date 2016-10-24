@@ -399,7 +399,7 @@
     </section>
     <!-- End Contact Form -->
     <footer class="footer">
-        <div class="footer-top">
+        <!--<div class="footer-top">
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
@@ -421,11 +421,12 @@
                     </div>
                 </div>
             </div>
-        </div><!-- footer top -->
+        </div>-->
+        <!-- footer top -->
         <div class="footer-bottom">
             <div class="container">
                 <div class="col-md-12">
-                    <p>Copyright © 2015 aksharapro. All Rights Reserved<br>Made with <i class="fa fa-heart pulse"></i> by <a href="http://aspxtemplates.com/">aspx templates</a></p>
+                    <!--<p>Copyright © 2015 aksharapro. All Rights Reserved<br>Made with <i class="fa fa-heart pulse"></i> by <a href="http://aspxtemplates.com/">aspx templates</a></p>-->
                 </div>
             </div>
         </div>
