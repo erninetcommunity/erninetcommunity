@@ -212,19 +212,19 @@
            </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="person">
-                        <img src="images/team-1.jpg" alt="" class="img-responsive">
+                        <img src="images/diego.jpg" alt="" class="img-responsive">
                         <div class="person-content">
-                            <h4><strong>Ruth Wood</strong></h4>
-                            <h5 class="role"><strong>Founder, CEO</strong></h5>
-                            <p>The benefits of such a service, if priced, are held to be self-evident in the buyer's willingness to pay for it. Public services are those, that society (nation state, fiscal union, regional) as a whole pays for, through taxes and other means.</p>
+                            <h4><strong>Diego Bao</strong></h4>
+                            <h5 class="role"><strong>.Net Community Sponsor</strong></h5>
+                            <!--<p>The benefits of such a service, if priced, are held to be self-evident in the buyer's willingness to pay for it. Public services are those, that society (nation state, fiscal union, regional) as a whole pays for, through taxes and other means.</p>-->
                         </div>
-                        <ul class="social-icons clearfix">
+                        <!--<ul class="social-icons clearfix">
                             <li><a href="#"><span class="fa fa-facebook"></span></a></li>
                             <li><a href="#"><span class="fa fa-twitter"></span></a></li>
                             <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
                             <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
                             <li><a href="#"><span class="fa fa-dribbble"></span></a></li>
-                        </ul>
+                        </ul>-->
                     </div><!-- person -->
                 </div>
                 <div class="col-md-3 col-sm-6">
@@ -235,30 +235,30 @@
                             <h5 class="role"><strong>Co-Founder, Developer</strong></h5>
                             <p>The benefits of such a service, if priced, are held to be self-evident in the buyer's willingness to pay for it. Public services are those, that society (nation state, fiscal union, regional) as a whole pays for, through taxes and other means.</p>
                         </div>
-                        <ul class="social-icons clearfix">
+                        <!--<ul class="social-icons clearfix">
                             <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
                             <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
                             <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
                             <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
                             <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
-                        </ul>
+                        </ul>-->
                     </div><!-- person -->
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="person">
-                        <img src="images/team-3.jpg" alt="" class="img-responsive">
+                        <img src="images/leon.jpg" alt="" class="img-responsive">
                         <div class="person-content">
-                            <h4><strong>Victoria Valdez</strong></h4>
-                            <h5 class="role"><strong>UI Designer</strong></h5>
-                            <p>The benefits of such a service, if priced, are held to be self-evident in the buyer's willingness to pay for it. Public services are those, that society (nation state, fiscal union, regional) as a whole pays for, through taxes and other means.</p>
+                            <h4><strong>Leon Miura</strong></h4>
+                            <h5 class="role"><strong>SME Hololens</strong></h5>
+                            <p>Our first SME come with us un listen what he has to say obut <strong>Hololens</strong>.</p>
                         </div>
-                        <ul class="social-icons clearfix">
+                        <!--<ul class="social-icons clearfix">
                             <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
                             <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
                             <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
                             <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
                             <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
-                        </ul>
+                        </ul>-->
                     </div><!-- person -->
                 </div>
                 <div class="col-md-3 col-sm-6">
