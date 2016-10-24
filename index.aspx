@@ -33,7 +33,7 @@
                         <li><a href="#works">Projects</a></li>
                         <li><a href="#teams">Members</a></li>
                         <li><a href="#testimonials">Events</a></li>
-                        <!--<li><a href="#download">Download</a></li>-->
+                        <li><a href="#contact">Join us</a></li>
                     </ul>
                 </nav>
                 <a href="#" class="nav-toggle">Menu<span></span></a>
