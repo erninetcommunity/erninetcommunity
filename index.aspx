@@ -111,7 +111,7 @@
              <h1><span>PROJECTS</span></h1>
            </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
-                    <a href="images/work-1.jpg" class="work-box">
+                    <a href="images/hololens.jpg" class="work-box">
                         <!--<img src="images/work-1.jpg" alt="">-->
                         <img src="images/hololens.jpg" alt="">
                         <div class="overlay">
@@ -123,22 +123,22 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
-                    <a href="images/work-2.jpg" class="work-box">
-                        <img src="images/work-2.jpg" alt="">                        
+                    <a href="images/HaveIdea.png" class="work-box">
+                        <img src="images/HaveIdea.png" alt="">                        
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>What you want to do?</h5>
+                                <h5>Do you have an Idea?</h5>
                                 <!--<p>Website Design</p>-->
                             </div>
                         </div><!-- overlay -->
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
-                    <a href="images/work-3.jpg" class="work-box">
-                        <img src="images/work-3.jpg" alt="">
+                    <a href="images/BrainIdeas.jpg" class="work-box">
+                        <img src="images/BrainIdeas.jpg" alt="">
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>Coming soon!</h5>
+                                <h5>What do you have in your brain?</h5>
                                 <!--<p>Website Design</p>-->
                             </div>
                         </div><!-- overlay -->
