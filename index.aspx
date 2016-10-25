@@ -290,7 +290,7 @@
                         <li>
                             <div class="col-md-6">
                                 <div class="avatar">
-                                    <img src="images/testimonial-1.jpg" alt="" class="img-responsive">
+                                    <img src="images/KickoffMeeting.jpg" alt="" class="img-responsive">
                                 </div>
                             </div>
                             <div class="col-md-6">
