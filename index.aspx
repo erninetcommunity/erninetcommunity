@@ -8,6 +8,7 @@
 <html class="no-js" lang="">
 <!--<![endif]-->
 <head>
+
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -57,7 +58,7 @@
            <div class="headingsyle">
              <h1><span>COMMUNITY</span></h1>
            </div>
-                <div class="col-md-4 col-sm-6 feature text-center">
+                <!--<div class="col-md-4 col-sm-6 feature text-center">
                
                     <span class="icon icon-tools"></span>
                     <div class="feature-content">
@@ -99,7 +100,7 @@
                         <h5>Download for Free</h5>
                         <p>Service provision is often an economic activity where the buyer does not generally, except by exclusive contract, obtain exclusive ownership of the thing purchased.</p>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
     </section>
@@ -145,8 +146,8 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
-                    <a href="images/softwareDevelopment.jpg" class="work-box">
-                        <img src="images/softwareDevelopment.jpg" alt="">
+                    <a href="images/WhenStart.png" class="work-box">
+                        <img src="images/WhenStart.png" alt="">
                         <div class="overlay">
                             <div class="overlay-caption">
                                 <h5>When we Start?</h5>
