@@ -145,6 +145,7 @@
                         </div><!-- overlay -->
                     </a>
                 </div>
+                
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
                     <a href="images/WhenStart.png" class="work-box">
                         <img src="images/WhenStart.png" alt="">
