@@ -46,7 +46,7 @@
                 <div class="banner-text text-center">
                     <h1>Welcome to ERNI .NET COMMUNITY. Let's learn and have fun with .Net technologies TOGETHER!!</h1>
                     <h3>Are you an .Net expert? Do you want to share with us? Do you have a crazy idea? Come to our Kick-off meeting <strong>14/11/2016</strong> </h3>
-                    <a href="#" class="btn btn-large">JOIN US</a> <!--<a href="#" class="btn btn-large">I'm a SME</a>-->
+                    <a href="#contact" class="btn btn-large">JOIN US</a> <!--<a href="#" class="btn btn-large">I'm a SME</a>-->
                 </div><!-- banner text -->
             </div>
         </div>
@@ -359,7 +359,7 @@
             <div class="row text-center">
                 <a href="https://erninetcommunity.slack.com/" class="work-box">                
                 <div class="col-md-6 feature text-center">
-                    <img class="icon social" src="images/slack-icon.png" alt="">
+                    <img  src="images/slack-icon.png" alt="">
                     <!--<div class="feature-content">
                         <h5>Responsive Ready</h5>
                         <p>Service provision is often an economic activity where the buyer does not generally, except by exclusive contract, obtain exclusive ownership of the thing purchased.</p>
@@ -368,7 +368,7 @@
                 </a>
                 <a href="https://www.yammer.com/erni.ch" class="work-box">   
                 <div class="col-md-6 feature text-center">
-                    <img class="icon social" src="images/yammer-icon.png" alt="">
+                    <img  src="images/yammer-icon.png" alt="">
                     <!--<span class="icon icon-briefcase"></span>-->
                     <!--<div class="feature-content">
                         <h5>Ready to Ship</h5>
