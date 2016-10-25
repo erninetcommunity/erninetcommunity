@@ -145,7 +145,7 @@
                         </div><!-- overlay -->
                     </a>
                 </div>
-                
+
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
                     <a href="images/WhenStart.png" class="work-box">
                         <img src="images/WhenStart.png" alt="">
@@ -235,7 +235,7 @@
                         <div class="person-content">
                             <h4><strong>Ricard Artigas</strong></h4>
                             <h5 class="role"><strong>.Net Community Leader</strong></h5>
-                            <p>Join us we have an amazing oportunty to learn together.</p>
+                            <!--<p>Join us we have an amazing oportunty to learn together.</p>-->
                         </div>
                         <!--<ul class="social-icons clearfix">
                             <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
@@ -252,7 +252,7 @@
                         <div class="person-content">
                             <h4><strong>Leon Miura</strong></h4>
                             <h5 class="role"><strong>Hololens SME</strong></h5>
-                            <p>Our first SME come with us un listen what he has to say obut <strong>Hololens</strong>.</p>
+                            <!--<p>Our first SME come with us un listen what he has to say obut <strong>Hololens</strong>.</p>-->
                         </div>
                         <!--<ul class="social-icons clearfix">
                             <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
@@ -356,15 +356,18 @@
     <!-- Contact Form -->
     <section id="contact" class="space100">
         <div class="container">
-            <div class="row text-center">                
-                <div class="col-md-4 col-sm-6 feature text-center">
+            <div class="row text-center">
+                <a href="https://erninetcommunity.slack.com/" class="work-box">                
+                <div class="col-md-6 feature text-center">
                     <img class="icon social" src="images/slack-icon.png" alt="">
                     <!--<div class="feature-content">
                         <h5>Responsive Ready</h5>
                         <p>Service provision is often an economic activity where the buyer does not generally, except by exclusive contract, obtain exclusive ownership of the thing purchased.</p>
                     </div>-->
                 </div>
-                <div class="col-md-4 col-sm-6 feature text-center">
+                </a>
+                <a href="https://www.yammer.com/erni.ch" class="work-box">   
+                <div class="col-md-6 feature text-center">
                     <img class="icon social" src="images/yammer-icon.png" alt="">
                     <!--<span class="icon icon-briefcase"></span>-->
                     <!--<div class="feature-content">
@@ -372,6 +375,7 @@
                         <p>Service provision is often an economic activity where the buyer does not generally, except by exclusive contract, obtain exclusive ownership of the thing purchased.</p>
                     </div>-->
                 </div>
+                </a>
 
             </div>
 
