@@ -355,10 +355,8 @@
     <!-- Contact Form -->
     <section id="contact" class="space100">
         <div class="container">
-            <div class="row">
+            <div class="row text-center">
                 
-            </div>
-
                 <div class="col-md-4 col-sm-6 feature text-center">
                     <img class="icon social" src="images/slack-icon.png" alt="">
                     <div class="feature-content">
@@ -374,6 +372,8 @@
                         <p>Service provision is often an economic activity where the buyer does not generally, except by exclusive contract, obtain exclusive ownership of the thing purchased.</p>
                     </div>
                 </div>
+
+            </div>
 
 
             <!-- ./end row -->
