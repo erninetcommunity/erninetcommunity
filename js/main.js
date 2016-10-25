@@ -3,7 +3,7 @@ $(document).ready(function() {
 	$(window).on('scroll', function() {
 		var scroll = $(window).scrollTop();
 
-		if (scroll >= 50) {
+		if (scroll >= $('.banner').height()) {
 			$('#header').addClass('fixed');
 		} else {
 			$('#header').removeClass('fixed');

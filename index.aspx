@@ -138,7 +138,7 @@
                         <img src="images/BrainIdeas.jpg" alt="">
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>What do you have in your brain?</h5>
+                                <h5>What is in your mind?</h5>
                                 <!--<p>Website Design</p>-->
                             </div>
                         </div><!-- overlay -->
@@ -266,7 +266,7 @@
                         <img src="images/unknownSME.png" alt="" class="img-responsive">
                         <div class="person-content">
                             <h4><strong>Unknown SME</strong></h4>
-                            <h5 class="role"><strong>Are you our next SME?</strong></h5>
+                            <h5 class="role"><strong>Will you be our next SME?</strong></h5>
                             <!--<p>What you have to share with us!</p>-->
                         </div>
                         <!--<ul class="social-icons clearfix">
