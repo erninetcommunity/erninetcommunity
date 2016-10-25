@@ -295,13 +295,12 @@
                             </div>
                             <div class="col-md-6">
                                 <blockquote>
-                                    <p>"Yesterday's the past, tomorrow's the future, but today is a gift. That's why it's called the present......."
-                                    </p>
-                                    <cite class="author">- Bil Keane</cite>
+                                    <p>Join us in our initial kick-off meeting!!</p>
+                                    <h2>14/11/2016</h2>
                                 </blockquote>
                             </div>
                         </li>
-                        <li>
+                        <!--<li>
                             <div class="col-md-6">
                                 <div class="avatar">
                                     <img src="images/testimonial-2.jpg" alt="" class="img-responsive">
@@ -314,7 +313,7 @@
                                     <cite class="author">= Steve Jobs....</cite>
                                 </blockquote>
                             </div>
-                        </li>
+                        </li>-->
                     </ul>
                 </div>
                 
@@ -355,22 +354,21 @@
     <!-- Contact Form -->
     <section id="contact" class="space100">
         <div class="container">
-            <div class="row text-center">
-                
+            <div class="row text-center">                
                 <div class="col-md-4 col-sm-6 feature text-center">
                     <img class="icon social" src="images/slack-icon.png" alt="">
-                    <div class="feature-content">
+                    <!--<div class="feature-content">
                         <h5>Responsive Ready</h5>
                         <p>Service provision is often an economic activity where the buyer does not generally, except by exclusive contract, obtain exclusive ownership of the thing purchased.</p>
-                    </div>
+                    </div>-->
                 </div>
                 <div class="col-md-4 col-sm-6 feature text-center">
                     <img class="icon social" src="images/yammer-icon.png" alt="">
                     <!--<span class="icon icon-briefcase"></span>-->
-                    <div class="feature-content">
+                    <!--<div class="feature-content">
                         <h5>Ready to Ship</h5>
                         <p>Service provision is often an economic activity where the buyer does not generally, except by exclusive contract, obtain exclusive ownership of the thing purchased.</p>
-                    </div>
+                    </div>-->
                 </div>
 
             </div>
