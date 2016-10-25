@@ -316,13 +316,11 @@ ul li {
 	$Banner
 ========================================================================== */
 .banner {
-  background-image: url(../images/dotNetCode.png);
-  background-position: center top;
-  background-repeat: no-repeat;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-background-size: cover;
-  background-size: cover;
+  background: #64308e;
+background: -moz-linear-gradient(-45deg,  #64308e 0%, #110b14 100%);
+background: -webkit-linear-gradient(-45deg,  #64308e 0%,#110b14 100%);
+background: linear-gradient(135deg,  #64308e 0%,#110b14 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#64308e', endColorstr='#110b14',GradientType=1 ); 
   min-height: 750px; }
 
 .banner-text {
