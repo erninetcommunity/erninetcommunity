@@ -356,6 +356,11 @@
     <!-- Contact Form -->
     <section id="contact" class="space100">
         <div class="container">
+<div class="row">
+             <div class="headingsyle">
+             <h1><span>Join Us</span></h1>
+           </div>
+
             <div class="row text-center">
                 <a href="https://erninetcommunity.slack.com/" class="work-box">                
                 <div class="col-md-6 feature text-center">
@@ -366,7 +371,7 @@
                     </div>-->
                 </div>
                 </a>
-                <a href="https://www.yammer.com/erni.ch" class="work-box">   
+                <a href="https://www.yammer.com/erni.ch/?show_login=true" class="work-box">   
                 <div class="col-md-6 feature text-center">
                     <img  src="images/yammer-icon.png" alt="">
                     <!--<span class="icon icon-briefcase"></span>-->
