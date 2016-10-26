@@ -58,7 +58,7 @@
            <div class="headingsyle">
              <h1><span>COMMUNITY</span></h1>
            </div>
-                <div class="col-md-1 feature text-center">
+                <div class="feature text-center">
                         <h2> The <strong>.Net Community</strong> is created with porpous to give ERNIans an environment to learn and play with all .Net technologies.</h2>
                         <h2> We have the <strong>responsability</strong> to get our <strong>results</strong>. We <strong>trust</strong> in our <strong>passion</strong>, it will give us energy to get them.</h2>
                         <h2> The communnity memebers will decide WHAT, WHEN and HOW to do what ever they want. They are the drivers of the community.</h2>
