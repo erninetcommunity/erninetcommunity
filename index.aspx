@@ -294,11 +294,7 @@
         </div>
     </section>
     <!-- teams -->
-    <section id="testimonials" class="section testimonials no-padding">
-        <div class="row">
-             <div class="headingsyle">
-             <h1><span>Events</span></h1>
-           </div>           
+    <section id="testimonials" class="section testimonials no-padding"> 
         <div class="container-fluid">
 
             <div class="row no-gutter">
