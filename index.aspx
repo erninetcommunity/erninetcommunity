@@ -317,7 +317,7 @@
                                     <div class="col-md-6">
                                         <blockquote>
                                             <p>Come to our kick-off meeting!!</p>
-                                            <h3>16/11/2016</h3>
+                                            <p><h3>16/11/2016</h3></p>
                                             <p>Create the community, decide what we want to do. And prepare the main path of
                                                 our community!!!</p>
                                             <p>Hear our Firtst SME. <strong>Leon Miura</strong> will give a us a short introductuon
