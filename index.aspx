@@ -45,7 +45,7 @@
             <div class="col-md-10 col-md-offset-1">
                 <div class="banner-text text-center">
                     <h1>Welcome to ERNI .NET COMMUNITY. Let's learn and have fun with .Net technologies TOGETHER!!</h1>
-                    <h3>Are you an .Net expert? Do you want to share with us? Do you have a crazy idea? Come to our Kick-off meeting <strong>14/11/2016</strong> </h3>
+                    <h3>Are you a .Net expert? Do you want to share with us? Do you have a crazy idea? Come to our Kick-off meeting <strong>14/11/2016</strong> </h3>
                     <a href="#contact" class="btn btn-large">JOIN US</a> <!--<a href="#" class="btn btn-large">I'm a SME</a>-->
                 </div><!-- banner text -->
             </div>
@@ -59,11 +59,11 @@
              <h1><span>COMMUNITY</span></h1>
            </div>
                 <div class="feature text-center">
-                        <h2> The <strong>.Net Community</strong> is created with porpous to give ERNIans an environment to learn and play with all .Net technologies.</h2>
+                        <h2> The <strong>.Net Community</strong> is created with the purpose to give ERNIans an environment to learn and play with all .Net technologies.</h2>
                         <br/>
-                        <h2> We have the <strong>responsability</strong> to get our <strong>results</strong>. We <strong>trust</strong> in our <strong>passion</strong>, it will give us energy to get them.</h2>
+                        <h2> We have the <strong>responsibility</strong> to deliver our <strong>results</strong>. We <strong>trust</strong> in our <strong>passion</strong>, it will give us energy to acomplish it.</h2>
                         <br/>
-                        <h2> The communnity memebers will decide WHAT, WHEN and HOW to do what ever they want. They are the drivers of the community.</h2>
+                        <h2> The community members will decide WHAT, WHEN and HOW to do whatever they want. They are the drivers of the community.</h2>
                 </div>      
 
                 <!--<div class="col-md-4 col-sm-6 feature text-center">
@@ -128,7 +128,7 @@
                         <div class="overlay">
                             <div class="overlay-caption">
                                 <h5>Hololens</h5>
-                                <!--<p>Website Design</p>-->
+                                <!--<p>23/11/2016</p>-->
                             </div>
                         </div><!-- overlay -->
                     </a>
@@ -149,7 +149,7 @@
                         <img src="images/BrainIdeas.jpg" alt="">
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>What is in your mind?</h5>
+                                <h5>What's in your mind?</h5>
                                 <!--<p>Website Design</p>-->
                             </div>
                         </div><!-- overlay -->
@@ -161,7 +161,7 @@
                         <img src="images/WhenStart.png" alt="">
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>When we Start?</h5>
+                                <h5>When do we Start?</h5>
                                 <!--<p>Website Design</p>-->
                             </div>
                         </div><!-- overlay -->
@@ -310,8 +310,8 @@
                                 <blockquote>
                                     <p>Come to our kick-off meeting!!</p>
                                     <h3>14/11/2016</h3>
-                                    <p>Create the community, decide what we want todo. And prepare the main path of our community!!!</p>
-                                    <p>Hear our Firtst SME. <strong>Leon Miura</strong> will give a us a short introductuon in to Hololens world.</p>                                    
+                                    <p>Create the community, decide what we want to do. And prepare the main path of our community!!!</p>
+                                    <p>Hear our Firtst SME. <strong>Leon Miura</strong> will give a us a short introductuon into the Hololens world.</p>                                    
                                 </blockquote>
                             </div>
                         </li>
