@@ -58,6 +58,10 @@
            <div class="headingsyle">
              <h1><span>COMMUNITY</span></h1>
            </div>
+                <div class="col-md-4 col-sm-6 feature text-center">
+                        <h2> </h2>
+                </div>      
+
                 <!--<div class="col-md-4 col-sm-6 feature text-center">
                
                     <span class="icon icon-tools"></span>
@@ -304,7 +308,8 @@
                                 <blockquote>
                                     <h1>Come to our kick-off meeting!!</h3>
                                     <h3>14/11/2016</h3>
-                                    <p> Dicide with us what is the path of .Net Community. And assit to Hololens speech.</p>
+                                    <p>Create the community, decide what we want todo. And prepare the main path of our community!!!</p>
+                                    <p>Hear our Firtst SME. <strong>Leon Miura</storng> will give a us a short introductuon in to Hololens world.</p>                                    
                                 </blockquote>
                             </div>
                         </li>
