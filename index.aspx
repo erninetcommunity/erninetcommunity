@@ -60,7 +60,9 @@
            </div>
                 <div class="feature text-center">
                         <h2> The <strong>.Net Community</strong> is created with porpous to give ERNIans an environment to learn and play with all .Net technologies.</h2>
+                        <br/>
                         <h2> We have the <strong>responsability</strong> to get our <strong>results</strong>. We <strong>trust</strong> in our <strong>passion</strong>, it will give us energy to get them.</h2>
+                        <br/>
                         <h2> The communnity memebers will decide WHAT, WHEN and HOW to do what ever they want. They are the drivers of the community.</h2>
                 </div>      
 
