@@ -302,8 +302,9 @@
                             </div>
                             <div class="col-md-6">
                                 <blockquote>
-                                    <p>Join us in our initial kick-off meeting!!</p>
-                                    <h2>14/11/2016</h2>
+                                    <h1>Come to our kick-off meeting!!</h3>
+                                    <h3>14/11/2016</h3>
+                                    <p> Dicide with us what is the path of .Net Community. And assit to Hololens speech.</p>
                                 </blockquote>
                             </div>
                         </li>
