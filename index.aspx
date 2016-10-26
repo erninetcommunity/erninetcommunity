@@ -58,10 +58,10 @@
            <div class="headingsyle">
              <h1><span>COMMUNITY</span></h1>
            </div>
-                <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="col-md-1 feature text-center">
                         <h2> The <strong>.Net Community</strong> is created with porpous to give ERNIans an environment to learn and play with all .Net technologies.</h2>
-                        <h2> We have the <strong>responsability</strong> to get our <strong>results</strong>. We <strong>trust</strong> in our <strong>passion</strong>, they will give us energy to get them.</h2>
-                        <p> The communnity memebers will decide WHAT, WHEN and HOW to do what ever they want. They are the drivers of the community.</p>
+                        <h2> We have the <strong>responsability</strong> to get our <strong>results</strong>. We <strong>trust</strong> in our <strong>passion</strong>, it will give us energy to get them.</h2>
+                        <h2> The communnity memebers will decide WHAT, WHEN and HOW to do what ever they want. They are the drivers of the community.</h2>
                 </div>      
 
                 <!--<div class="col-md-4 col-sm-6 feature text-center">
@@ -112,11 +112,13 @@
     </section>
     <!-- features -->
     <section id="works" class="works section no-padding">
-        <div class="container-fluid">
-            <div class="row no-gutter">
-             <div class="headingsyle">
+        <div class="headingsyle">
              <h1><span>PROJECTS</span></h1>
            </div>
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+             
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
                     <a href="images/hololens.jpg" class="work-box">
                         <!--<img src="images/work-1.jpg" alt="">-->
@@ -294,7 +296,7 @@
         <div class="row">
              <div class="headingsyle">
              <h1><span>Events</span></h1>
-           </div>
+           </div>           
         <div class="container-fluid">
 
             <div class="row no-gutter">
@@ -308,10 +310,10 @@
                             </div>
                             <div class="col-md-6">
                                 <blockquote>
-                                    <h1>Come to our kick-off meeting!!</h3>
+                                    <p>Come to our kick-off meeting!!</p>
                                     <h3>14/11/2016</h3>
                                     <p>Create the community, decide what we want todo. And prepare the main path of our community!!!</p>
-                                    <p>Hear our Firtst SME. <strong>Leon Miura</storng> will give a us a short introductuon in to Hololens world.</p>                                    
+                                    <p>Hear our Firtst SME. <strong>Leon Miura</strong> will give a us a short introductuon in to Hololens world.</p>                                    
                                 </blockquote>
                             </div>
                         </li>
