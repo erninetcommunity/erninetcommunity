@@ -232,7 +232,7 @@
                                 <img src="images/diego.jpg" alt="" class="img-responsive">
                                 <div class="person-content">
                                     <h4><strong>Diego Bao</strong></h4>
-                                    <h5 class="role"><strong>.Net Community Sponsor</strong></h5>
+                                    <h5 class="role"><strong>.Net Community Sponsor, Patterns SME and Queue service bus SME</strong></h5>
                                     <!--<p>The benefits of such a service, if priced, are held to be self-evident in the buyer's willingness to pay for it. Public services are those, that society (nation state, fiscal union, regional) as a whole pays for, through taxes and other means.</p>-->
                                 </div>
                                 <!--<ul class="social-icons clearfix">
@@ -285,8 +285,8 @@
                             <div class="person">
                                 <img src="images/unknownSME.png" alt="" class="img-responsive">
                                 <div class="person-content">
-                                    <h4><strong>Unknown SME</strong></h4>
-                                    <h5 class="role"><strong>Will you be our next SME?</strong></h5>
+                                    <h4><strong>Daniel Bello</strong></h4>
+                                    <h5 class="role"><strong>Hololens SME</strong></h5>
                                     <!--<p>What you have to share with us!</p>-->
                                 </div>
                                 <!--<ul class="social-icons clearfix">
@@ -299,6 +299,151 @@
                             </div>
                             <!-- person -->
                         </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="person">
+                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <div class="person-content">
+                                    <h4><strong>Luis Mesa</strong></h4>
+                                    <h5 class="role"><strong>AZURE services and Integration SME</strong></h5>
+                                    <!--<p>What you have to share with us!</p>-->
+                                </div>
+                                <!--<ul class="social-icons clearfix">
+                            <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
+                        </ul>-->
+                            </div>
+                            <!-- person -->
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="person">
+                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <div class="person-content">
+                                    <h4><strong>Juan Serna</strong></h4>
+                                    <h5 class="role"><strong>.Net Core And taghelper SME</strong></h5>
+                                    <!--<p>What you have to share with us!</p>-->
+                                </div>
+                                <!--<ul class="social-icons clearfix">
+                            <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
+                        </ul>-->
+                            </div>
+                            <!-- person -->
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="person">
+                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <div class="person-content">
+                                    <h4><strong>Albert Platard</strong></h4>
+                                    <h5 class="role"><strong>.Net Core And taghelper SME</strong></h5>
+                                    <!--<p>What you have to share with us!</p>-->
+                                </div>
+                                <!--<ul class="social-icons clearfix">
+                            <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
+                        </ul>-->
+                            </div>
+                            <!-- person -->
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="person">
+                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <div class="person-content">
+                                    <h4><strong>Alejandro de Quintana</strong></h4>
+                                    <h5 class="role"><strong>Xamarin SME</strong></h5>
+                                    <!--<p>What you have to share with us!</p>-->
+                                </div>
+                                <!--<ul class="social-icons clearfix">
+                            <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
+                        </ul>-->
+                            </div>
+                            <!-- person -->
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="person">
+                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <div class="person-content">
+                                    <h4><strong>Marc Vijfschaft</strong></h4>
+                                    <h5 class="role"><strong>AI, Cortana, Bot framework and Cognitive services SME</strong></h5>
+                                    <!--<p>What you have to share with us!</p>-->
+                                </div>
+                                <!--<ul class="social-icons clearfix">
+                            <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
+                        </ul>-->
+                            </div>
+                            <!-- person -->
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="person">
+                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <div class="person-content">
+                                    <h4><strong>Marc Vijfschaft</strong></h4>
+                                    <h5 class="role"><strong>AI, Cortana, Bot framework and Cognitive services SME</strong></h5>
+                                    <!--<p>What you have to share with us!</p>-->
+                                </div>
+                                <!--<ul class="social-icons clearfix">
+                            <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
+                        </ul>-->
+                            </div>
+                            <!-- person -->
+                        </div>    
+                        <div class="col-md-3 col-sm-6">
+                            <div class="person">
+                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <div class="person-content">
+                                    <h4><strong>Stefano Agazzi</strong></h4>
+                                    <h5 class="role"><strong>Docker, .Net linux Mono SME</strong></h5>
+                                    <!--<p>What you have to share with us!</p>-->
+                                </div>
+                                <!--<ul class="social-icons clearfix">
+                            <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
+                        </ul>-->
+                            </div>
+                            <!-- person -->
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="person">
+                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <div class="person-content">
+                                    <h4><strong>Xavier Casafont</strong></h4>
+                                    <h5 class="role"><strong> Mvc, WebApim, Angulars, SPA SME</strong></h5>
+                                    <!--<p>What you have to share with us!</p>-->
+                                </div>
+                                <!--<ul class="social-icons clearfix">
+                            <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
+                            <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
+                        </ul>-->
+                            </div>
+                            <!-- person -->
+                        </div>
+
                     </div>
                 </div>
             </section>
