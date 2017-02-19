@@ -436,7 +436,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#64308e', end
 	$Teams
 ========================================================================== */
 .person {
-  max-width: 270px; }
+  max-width: 270px; 
+  min-width: 270px;}
   .person-content
 {
     border-style: solid none solid none;
