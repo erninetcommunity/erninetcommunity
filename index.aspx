@@ -45,8 +45,8 @@
                     <div class="col-md-10 col-md-offset-1">
                         <div class="banner-text text-center">
                             <h1>Welcome to ERNI .NET COMMUNITY. Let's learn and have fun with .Net technologies TOGETHER!!</h1>
-                            <h3>Are you a .Net expert? Do you want to share with us? Do you have a crazy idea? Come to our Kick-off
-                                meeting <strong>16/11/2016</strong> </h3>
+                            <h3>Are you a .Net expert? Do you want to share with us? Do you have a crazy idea? Come to our next
+                                meeting <strong>28/02/2017</strong> </h3>
                             <a href="#contact" class="btn btn-large">JOIN US</a>
                             <!--<a href="#" class="btn btn-large">I'm a SME</a>-->
                         </div>
@@ -299,9 +299,9 @@
                             </div>
                             <!-- person -->
                         </div>
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-md-3 col-sm-6" >
                             <div class="person">
-                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <img src="images/UnknownSMEsmall.jpg" alt="" class="img-responsive">
                                 <div class="person-content">
                                     <h4><strong>Luis Mesa</strong></h4>
                                     <h5 class="role"><strong>AZURE services and Integration SME</strong></h5>
@@ -435,7 +435,7 @@
                     <div class="row no-gutter">
                         <div class="flexslider">
                             <ul class="slides">
-                                <li>
+                                <!--<li>
                                     <div class="col-md-6">
                                         <div class="avatar">
                                             <img src="images/KickoffMeeting.jpg" alt="" class="img-responsive">
@@ -451,7 +451,26 @@
                                                 into the Hololens world.</p>
                                         </blockquote>
                                     </div>
-                                </li>
+                                </li>-->
+
+                                <li>
+                            <div class="col-md-6">
+                                <div class="avatar">
+                                    <img src="images/meetuplogo1000.jpg" alt="" class="img-responsive">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <blockquote>
+                                    <p>Come to next Barcelona .Net Core Meetup</p>
+                                    <p><a href="https://www.meetup.com/es-ES/Barcelona-NET-Core/events/237481751/">
+                                        But… Is C# a Functional Programming Language?</a></p>
+                                    <cite class="author">Alejandro Campos Magencio 
+                                        <a href="https://twitter.com/alejacma">@alejacma</a>
+                                        </cite>
+                                </blockquote>
+                            </div>
+                        </li>
+
                                 <!--<li>
                             <div class="col-md-6">
                                 <div class="avatar">
