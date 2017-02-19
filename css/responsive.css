@@ -36,7 +36,8 @@
   .person {
     margin: 0 auto 50px; }
     .person-content {
-      text-align: center; }
+      text-align: center; 
+      Height: 100px;}
     .person .social-icons li {
       display: inline-block;
       float: none;
