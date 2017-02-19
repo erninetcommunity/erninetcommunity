@@ -229,7 +229,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="person">
-                                <img src="images/diego.jpg" alt="" class="img-responsive">
+                                <img src="images/Bao_Diego.jpg" alt="" class="img-responsive">
                                 <div class="person-content">
                                     <h4><strong>Diego Bao</strong></h4>
                                     <h5 class="role"><strong>.Net Community Sponsor, Patterns SME and Queue service bus SME</strong></h5>
@@ -247,7 +247,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="person">
-                                <img src="images/ricard.jpg" alt="" class="img-responsive">
+                                <img src="images/Artigas_Ricard.jpg" alt="" class="img-responsive">
                                 <div class="person-content">
                                     <h4><strong>Ricard Artigas</strong></h4>
                                     <h5 class="role"><strong>.Net Community Leader</strong></h5>
@@ -265,7 +265,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="person">
-                                <img src="images/leon.jpg" alt="" class="img-responsive">
+                                <img src="images/Miura_Leon.jpg" alt="" class="img-responsive">
                                 <div class="person-content">
                                     <h4><strong>Leon Miura</strong></h4>
                                     <h5 class="role"><strong>Hololens SME</strong></h5>
@@ -283,7 +283,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="person">
-                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <img src="images/Bello_Daniel.jpg" alt="" class="img-responsive">
                                 <div class="person-content">
                                     <h4><strong>Daniel Bello</strong></h4>
                                     <h5 class="role"><strong>Hololens SME</strong></h5>
@@ -319,7 +319,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="person">
-                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <img src="images/Serna_Juan.jpg" alt="" class="img-responsive">
                                 <div class="person-content">
                                     <h4><strong>Juan Serna</strong></h4>
                                     <h5 class="role"><strong>.Net Core And taghelper SME</strong></h5>
@@ -337,7 +337,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="person">
-                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <img src="images/Platard_Albert.jpg" alt="" class="img-responsive">
                                 <div class="person-content">
                                     <h4><strong>Albert Platard</strong></h4>
                                     <h5 class="role"><strong>.Net Core And taghelper SME</strong></h5>
@@ -355,7 +355,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="person">
-                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <img src="images/De_Quintana_Alejandro.jpg" alt="" class="img-responsive">
                                 <div class="person-content">
                                     <h4><strong>Alejandro de Quintana</strong></h4>
                                     <h5 class="role"><strong>Xamarin SME</strong></h5>
@@ -373,7 +373,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="person">
-                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <img src="images/Vijfschaft_Marc.jpg" alt="" class="img-responsive">
                                 <div class="person-content">
                                     <h4><strong>Marc Vijfschaft</strong></h4>
                                     <h5 class="role"><strong>AI, Cortana, Bot framework and Cognitive services SME</strong></h5>
@@ -391,25 +391,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="person">
-                                <img src="images/unknownSME.png" alt="" class="img-responsive">
-                                <div class="person-content">
-                                    <h4><strong>Marc Vijfschaft</strong></h4>
-                                    <h5 class="role"><strong>AI, Cortana, Bot framework and Cognitive services SME</strong></h5>
-                                    <!--<p>What you have to share with us!</p>-->
-                                </div>
-                                <!--<ul class="social-icons clearfix">
-                            <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
-                            <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
-                            <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
-                            <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
-                        </ul>-->
-                            </div>
-                            <!-- person -->
-                        </div>    
-                        <div class="col-md-3 col-sm-6">
-                            <div class="person">
-                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <img src="images/Agazzi_Stefano.jpg" alt="" class="img-responsive">
                                 <div class="person-content">
                                     <h4><strong>Stefano Agazzi</strong></h4>
                                     <h5 class="role"><strong>Docker, .Net linux Mono SME</strong></h5>
@@ -427,7 +409,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="person">
-                                <img src="images/unknownSME.png" alt="" class="img-responsive">
+                                <img src="images/Casafont_Xavier.jpg" alt="" class="img-responsive">
                                 <div class="person-content">
                                     <h4><strong>Xavier Casafont</strong></h4>
                                     <h5 class="role"><strong> Mvc, WebApim, Angulars, SPA SME</strong></h5>
