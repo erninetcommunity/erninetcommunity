@@ -461,11 +461,11 @@
                             </div>
                             <div class="col-md-6">
                                 <blockquote>
-                                    <p>Come to next Barcelona .Net Core Meetup</p>
-                                    <p><a href="https://www.meetup.com/es-ES/Barcelona-NET-Core/events/237481751/">
-                                        But… Is C# a Functional Programming Language?</a></p>
+                                    <h3>Come to next Barcelona .Net Core Meetup</h3>
+                                    <h2><a color="inherit" href="https://www.meetup.com/es-ES/Barcelona-NET-Core/events/237481751/">
+                                        But… Is C# a Functional Programming Language?</a></h2>
                                     <cite class="author">Alejandro Campos Magencio 
-                                        <a href="https://twitter.com/alejacma">@alejacma</a>
+                                        <a color="inherit" href="https://twitter.com/alejacma">@alejacma</a>
                                         </cite>
                                 </blockquote>
                             </div>
