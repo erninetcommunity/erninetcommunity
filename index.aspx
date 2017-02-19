@@ -456,7 +456,7 @@
                                 <li>
                             <div class="col-md-6">
                                 <div class="avatar">
-                                    <img src="images/BarcelonaNetCoreLogo.jpeg" alt="" class="img-responsive">
+                                    <img src="images/meetupNetCoreBarcelona.png" alt="" class="img-responsive">
                                 </div>
                             </div>
                             <div class="col-md-6">
